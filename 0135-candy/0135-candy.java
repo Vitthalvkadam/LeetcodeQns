@@ -23,3 +23,6 @@ class Solution {
         return total;
     }
 }
+
+// Give everyone 1 candy, then increase candies when the rating is higher than the neighbor.
+// Check from left and right, take the maximum, and add all candies.
