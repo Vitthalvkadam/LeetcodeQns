@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
