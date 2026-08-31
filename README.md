@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0169-majority-element) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -47,4 +49,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0135-candy) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
