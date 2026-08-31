@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0135-candy) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
 |  |
 | ------- |
