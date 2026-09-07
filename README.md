@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0079-word-search) |
 | [0135-candy](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0169-majority-element) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -65,4 +66,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
