@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0228-summary-ranges) |
+| [0289-game-of-life](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0289-game-of-life) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
 |  |
@@ -85,4 +86,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0079-word-search) |
+| [0289-game-of-life](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0289-game-of-life) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
