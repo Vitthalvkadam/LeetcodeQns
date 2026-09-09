@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0289-game-of-life) |
+| [0322-coin-change](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0410-split-array-largest-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -102,4 +104,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0410-split-array-largest-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
