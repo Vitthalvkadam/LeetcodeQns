@@ -4,6 +4,14 @@ class Solution {
         int prev2 = 0;
 
         for(int money : nums){
+
+ // 1)calculated max using inbuilt method
+            //  int current = Math.max(
+                // prev1,           // हे घर सोड
+                // prev2 + money    // हे घर लुट
+            // );
+
+// 2)using logic
              int current = 0;
                if (prev1 > prev2 + money) {
                 current = prev1;          // घर सोड
