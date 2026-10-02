@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0060-permutation-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
