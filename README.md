@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0066-plus-one) |
+| [0168-excel-sheet-column-title](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0168-excel-sheet-column-title) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0079-word-search) |
+| [0168-excel-sheet-column-title](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0168-excel-sheet-column-title) |
 ## Backtracking
 |  |
 | ------- |
