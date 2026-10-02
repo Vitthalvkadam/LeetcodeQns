@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0168-excel-sheet-column-title) |
+| [0258-add-digits](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0263-ugly-number) |
 ## Two Pointers
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0289-game-of-life) |
 ## Binary Search
 |  |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
