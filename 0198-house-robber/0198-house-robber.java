@@ -4,10 +4,12 @@ class Solution {
         int prev2 = 0;
 
         for(int money : nums){
-             int current = Math.max(
-                prev1,           // हे घर सोड
-                prev2 + money    // हे घर लुट
-            );
+             int current = 0;
+               if (prev1 > prev2 + money) {
+                current = prev1;          // घर सोड
+            } else {
+                current = prev2 + money;  // घर लुट
+            }
 
             prev2 = prev1;
             prev1 = current;
