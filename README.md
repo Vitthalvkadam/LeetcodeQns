@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0410-split-array-largest-sum) |
+| [0456-132-pattern](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0456-132-pattern) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0410-split-array-largest-sum) |
+| [0456-132-pattern](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0456-132-pattern) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -180,4 +182,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0278-first-bad-version) |
+## Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0456-132-pattern) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
