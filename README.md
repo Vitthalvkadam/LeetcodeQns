@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0263-ugly-number) |
+| [0441-arranging-coins](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0441-arranging-coins) |
 | [2485-find-the-pivot-integer](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/2485-find-the-pivot-integer) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/2523-closest-prime-numbers-in-range) |
 | [2543-check-if-point-is-reachable](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/2543-check-if-point-is-reachable) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0456-132-pattern) |
 ## Prefix Sum
 |  |
