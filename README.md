@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2543-check-if-point-is-reachable](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/2543-check-if-point-is-reachable) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
