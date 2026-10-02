@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0263-ugly-number) |
 | [2485-find-the-pivot-integer](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/2485-find-the-pivot-integer) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/2523-closest-prime-numbers-in-range) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,4 +152,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0258-add-digits) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/2523-closest-prime-numbers-in-range) |
+## Primality Test
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/2523-closest-prime-numbers-in-range) |
+## Sieve Theory
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/2523-closest-prime-numbers-in-range) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
