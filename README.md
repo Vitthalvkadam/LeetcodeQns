@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0496-next-greater-element-i) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -190,10 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0071-simplify-path) |
 | [0456-132-pattern](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0496-next-greater-element-i) |
 ## Ordered Set
 |  |
 | ------- |
