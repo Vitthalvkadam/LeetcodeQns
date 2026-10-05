@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0263-ugly-number) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0168-excel-sheet-column-title) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0289-game-of-life) |
 ## Binary Search
@@ -202,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0456-132-pattern) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
