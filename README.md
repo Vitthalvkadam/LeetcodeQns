@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0168-excel-sheet-column-title) |
+| [1021-remove-outermost-parentheses](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0071-simplify-path) |
 | [0456-132-pattern](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0496-next-greater-element-i) |
+| [1021-remove-outermost-parentheses](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0067-add-binary) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
