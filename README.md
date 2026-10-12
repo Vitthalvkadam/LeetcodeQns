@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0135-candy) |
+| [0162-find-peak-element](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0228-summary-ranges) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/Vitthalvkadam/LeetcodeQns/tree/master/0441-arranging-coins) |
